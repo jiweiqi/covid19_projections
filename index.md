@@ -1,8 +1,8 @@
-We present an intuitive model that builds machine learning techniques on top of a classic infectious disease model to make COVID-19 infections and deaths projections for the US, all 50 US states, and more than 60 countries.
+我们提供了一个直观的模型，该模型在经典的传染病模型的基础上构建了机器学习技术，可为美国，美国50个州和60多个国家/地区提供COVID-19感染和死亡的预测。
 
-Note that our infections estimate includes all infected individuals, not just those that took a COVID-19 test kit and tested positive. The vast majority of infected individuals do not get tested, and thus do not get reported as a positive case. As of mid-May, we estimate the true number of infected individuals in the US is ~5x higher than the reported cases.
+请注意，我们的感染估计数包括所有感染的个体，而不仅仅是那些使用COVID-19检测试剂盒且检测呈阳性的个体。 绝大多数受感染的人没有得到检测，因此没有得到阳性报告。 截至5月中旬，我们估计美国的实际感染人数比报告的病例高5倍。
 
-On this page:
+在本页面:
 * [View US projections](#view-projections)
 * [View global projections](#global-projections)
 * [Likelihoods of death milestones in US](#us-deaths-likelihoods)
